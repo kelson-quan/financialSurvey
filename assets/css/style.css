@@ -1,0 +1,19 @@
+.card {
+    width: 60%;
+    float: center;
+    margin: 0 auto;
+}
+
+.question {
+    margin: 5px;
+}
+
+.answerOption {
+    margin: 5px;
+    width: 20%;
+    height: 100px;
+}
+
+#block-container {
+    margin: 20px 0px 0px 0px;
+}
